@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing and operations**
 
-- 👨‍💻 All of my projects are available at [https://ankush4101.github.io/ankush-portfolio/](https://ankush4101.github.io/ankush-portfolio/)
+- 👨‍💻 All of my projects are available at [https://ankush-desai-portfolio.vercel.app/](https://ankush-desai-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, Node and Cloud Technologies**
 
